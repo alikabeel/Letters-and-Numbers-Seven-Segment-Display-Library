@@ -3,7 +3,7 @@
  github readme file.
 
  Written by: Ali Kabeel
- Data: 21/1/2021
+ Date: 21/1/2021
  */
 
 #include "Arduino.h"
